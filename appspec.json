@@ -18,7 +18,7 @@
   "keywords": [
     "movestack",
     "move2",
-	"mt",
+	"location",
 	"transform"
   ],
   "people": [
@@ -41,7 +41,7 @@
     }
   ],
   "documentation": {
-    "url": "https://github.com/movestore/moveStack-to-mt/blob/master/README.md"
+    "url": "https://github.com/movestore/moveStack-to-move2_loc/blob/master/README.md"
   }
 }
 
