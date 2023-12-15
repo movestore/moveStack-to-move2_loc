@@ -1,4 +1,4 @@
-#library('move')
+library('move')
 library('move2')
 
 ## The parameter "data" is reserved for the data object passed on from the previous app
