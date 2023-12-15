@@ -7,7 +7,7 @@ library('move2')
 # logger.fatal(), logger.error(), logger.warn(), logger.info(), logger.debug(), logger.trace()
 
 rFunction = function(data) {
-  result <- mt_as_move2(data)
+  result <- mt_as_move2(data,time_column=move::timestamps(data),track_id_column=move::trackId(data))
   return(result)
 }
 
